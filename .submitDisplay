@@ -1,0 +1,5 @@
+src/Project0.java
+src/PublicTests.java=readonly
+src/ReleaseTests.java=readonly
+test.properties=readonly,hidden
+build.xml=readonly,collapsed,hidden
